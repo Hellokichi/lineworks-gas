@@ -1,6 +1,6 @@
 # LINE WORKS API 2.0 for Google Apps Script
 ## スクリプトID
-`1h3UcX3DZMCN9XPyL_QND_tmg3tqzE0Fp8sY4qKKRE_xIzqYmdZ0-pUfb`
+`1ynJaeeBqek3MLXQ5RzkDzsexXph4WfckvavxuvtDMfcIZ7tcqgj68r7P`
 
 ## 使い方
 ### configの準備
