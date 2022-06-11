@@ -37,12 +37,14 @@ const client = Lineworks.credential(config);
 
 > **_NOTE:_** アンダースコアは予約語と被らないようにするための配慮。
 
-#### ユーザーリストの取得
+
+## Request Examples
+### ユーザーリストの取得
 ```javascript
 const users = client.get_('/users');
 ```
 
-#### メッセージの送信 - トークルーム指定
+### メッセージの送信 - トークルーム指定
 ```javascript
 const botId = 11111;
 const channelId = 22222;
