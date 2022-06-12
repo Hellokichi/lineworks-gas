@@ -58,7 +58,5 @@ client.post_(`/bots/${botId}/channels/${channelId}/messages`, content);
 ```
 
 ## 注意
-LINE WORKS公式のライブラリではありません。
-使用上起きた問題についての責任は負いません。
-最新情報は公式サイトをご確認ください。
+LINE WORKS公式のライブラリではないため、使用にて生じた故障又は損害などに関しては一切の責任を負いかねますのであらかじめご了承ください。なお、最新情報は公式サイトをご確認ください。
 https://developers.worksmobile.com/jp/?lang=ja
